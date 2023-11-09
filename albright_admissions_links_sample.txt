@@ -1,0 +1,23 @@
+College Data Gatherer - Admissions
+Visiting https://albright.edu/
+Visiting https://www.albright.edu/admission-aid/apply-now/
+Visiting https://www.albright.edu/admission-aid/
+Visiting https://www.albright.edu/admission-aid/admission-faqs/
+Visiting https://www.albright.edu/admission-aid/guide-college-admission-aid/
+Visiting https://www.albright.edu/admission-aid/first-year-students/
+Visiting https://www.albright.edu/admission-aid/virtual-visit/
+Visiting https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-lingo/
+Visiting https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-faqs/
+Visiting https://www.albright.edu/admission-aid/first-year-students/albright-college-admission-policy/
+Term Match: "deadline" -> <p> Is there a deadline to apply to Albright? 
+Term Match: "deadline" -> <p> Admission at Albright College is rolling, which means you can apply at any time after the completion of your junior year. Summer is a great time to become familiar, or even start an application for admission, and the Common App traditionally opens on August 1. We encourage students to apply during the fall of their senior year of high school. Albright College has extended our enrollment deadline for the class enrolling in the Fall of 2020 to JUNE 1 as a result of the effects of Covid-19 (Coronavirus).
+Term Match: "deadline" -> <h2> Dates and Deadlines
+Term Match: "deadline" -> <p> Deadlines are important, and the schedules below allow you to get the information you need in a timely manner. Be sure to contact the Office of Admission if you have any questions.
+Visiting https://www.albright.edu/admission-aid/first-generation-students/admission-lingo/
+Visiting https://www.albright.edu/admission-aid/international-students/
+Term Match: "deadline" -> <p> Application Deadlines
+Visiting https://albright.edu/admission-aid/apply-now/
+URLs with content matching Deadline term
+https://www.albright.edu/admission-aid/first-year-students/
+https://www.albright.edu/admission-aid/international-students/
+https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-faqs/

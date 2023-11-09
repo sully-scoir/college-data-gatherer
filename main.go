@@ -12,11 +12,11 @@ func main() {
 	fmt.Println("College Data Gatherer - Admissions")
 
 	startsWithHttpsRegExp, _ := regexp.Compile("^https")
-
 	c := colly.NewCollector(
-		colly.AllowedDomains("drexel.edu"),
+		colly.AllowedDomains("albright.edu", "www.albright.edu"),
 		colly.CacheDir("cache/"),
 		colly.URLFilters(startsWithHttpsRegExp),
+		// colly.Debugger(&debug.LogDebugger{}),
 	)
 
 	admissionTextTerms := []string{
@@ -36,22 +36,21 @@ func main() {
 	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
 		text := e.Text
 		link := e.Attr("href")
-
 		if !matchesAdmissionTextTerms(text) {
 			return
 		}
 
-		fmt.Printf("Link : %q -> %s\n", text, link)
+		// fmt.Printf("Link : %q -> %s\n", text, link)
 
 		c.Visit(e.Request.AbsoluteURL(link))
 	})
 
-	earlyDecisionTerm := "early decision"
-	earlyDecisionUrls := map[string]bool{}
-	c.OnHTML("h1, h2, h3, h4, h5, h6", func(e *colly.HTMLElement) {
-		if s.Contains(s.ToLower(e.Text), s.ToLower(earlyDecisionTerm)) {
-			fmt.Printf("Term Match: %q -> <%s> %s\n", earlyDecisionTerm, e.Name, e.Text)
-			earlyDecisionUrls[e.Request.URL.String()] = true
+	deadlineTerm := "deadline"
+	deadlineUrls := map[string]bool{}
+	c.OnHTML("p, h1, h2, h3, h4, h5, h6", func(e *colly.HTMLElement) {
+		if s.Contains(s.ToLower(e.Text), s.ToLower(deadlineTerm)) {
+			fmt.Printf("Term Match: %q -> <%s> %s\n", deadlineTerm, e.Name, e.Text)
+			deadlineUrls[e.Request.URL.String()] = true
 		}
 	})
 
@@ -59,10 +58,14 @@ func main() {
 		fmt.Println("Visiting", r.URL.String())
 	})
 
-	c.Visit("https://drexel.edu/admissions")
+	c.OnError(func(r *colly.Response, e error) {
+		fmt.Println("Error:", e)
+	})
 
-	fmt.Println("URLs with content matching Early Decision term")
-	for u, _ := range earlyDecisionUrls {
+	c.Visit("https://albright.edu/")
+
+	fmt.Println("URLs with content matching Deadline term")
+	for u, _ := range deadlineUrls {
 		fmt.Println(u)
 	}
 }
