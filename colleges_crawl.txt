@@ -1,187 +1,4 @@
 College Data Gatherer - Admissions
-URLs with content matching Deadline term
-Visiting https://aib.edu
-Error: Get "https://aib.edu": dial tcp: lookup aib.edu on 172.18.48.1:53: no such host
-URLs with content matching Deadline term
-Visiting https://atc.edu
-URLs with content matching Deadline term
-Visiting https://aims.edu
-Error: Get "https://aims.edu": x509: certificate is valid for d.sni.fastly.net, not aims.edu
-URLs with content matching Deadline term
-URLs with content matching Deadline term
-URLs with content matching Deadline term
-URLs with content matching Deadline term
-Visiting https://alasu.edu
-Visiting https://www.alasu.edu/admissions/undergraduate-admissions
-Visiting https://www.alasu.edu/admissions/graduate-admissions
-Visiting https://www.alasu.edu/application
-Error: Get "https://hornetsnest.alasu.edu/psp/pa91prd/EMPLOYEE/SA/c/ASU_SS_NONID_MENU.ASU_SS_ONL_SECURE.GBL?PORTALPARAM_PTCNAV=ASU_LK_ONLINEAPP&EOPP_SCNode=EMPL&EOPP_SCPortal=EMPLOYEE&EOPP_SCName=ASU_NG_PROSPECTSTU&EOPP_SCLabel=ASU_NG_PROSPECTSTU&EOPP_SCPTcname&FolderPath=PORTAL_ROOT_OBJECT.PORTAL_BASE_DATA.CO_NAVIGATION_COLLECTIONS.ASU_NG_PROSPECTSTU.ASU_S200912161041161408734397&IsFolder=false": Not following redirect to hornetsnest.alasu.edu because its not in AllowedDomains
-Term Match: "deadline" -> <h2> Deadlines
-Visiting https://www.alasu.edu/our-recruiters
-Visiting https://www.alasu.edu/admissions/undergrad-admissions/early-admission
-Visiting https://www.alasu.edu/admissions/undergrad-admissions/admissions-documents
-Visiting https://www.alasu.edu/admissions/faqs/index.aspx
-Error: Not Found
-Visiting https://www.alasu.edu/student-life/housingresidence-life/housing-residence-life
-Visiting https://www.alasu.edu/admissions/undergrad-admissions/asu-academic-scholarships
-Term Match: "deadline" -> <p> High school seniors, below are the requirements and deadlines for applying to Alabama State University. If you are not a high school senior, check out the admissions pages for GED Applicants, Transfer Students or International Students.
-Term Match: "deadline" -> <h2> Deadlines
-Term Match: "deadline" -> <p>  View other important dates and deadlines on ASU's Academic Calendar.
-URLs with content matching Deadline term
-https://www.alasu.edu/admissions/graduate-admissions
-https://www.alasu.edu/admissions/undergraduate-admissions
-Visiting https://alamancecc.edu
-Visiting https://www.alamancecc.edu/admissions/
-Visiting https://www.alamancecc.edu/admissions-site/home/
-Visiting https://www.alamancecc.edu/admissions-site/contact-admissions/
-Visiting https://www.alamancecc.edu/financial-aid-site/applying-for-financial-aid/
-Visiting https://www.alamancecc.edu/financial-aid-site/applying-for-next-year/
-Visiting https://www.alamancecc.edu/financial-aid-site/
-Term Match: "deadline" -> <h4> Priority deadline is July 19, 2021
-Application Guarantee deadline is October 4, 2021
-Document Guarantee deadline is November 8, 2021
-Term Match: "deadline" -> <p> Students who provide all documentation to the Financial Aid office by
-the guarantee deadline will be awarded before Alamance Community
-College’s first payment deadline. If documentation is provided after the
-deadline, students may not have their award in place before tuition is
-due. Students should make other arrangements to cover outstanding
-tuition until aid is awarded. You may click HERE for more information on tuition payment plans.
-Term Match: "deadline" -> <h4> Priority deadline is January 31, 2022
-Application Guarantee deadline is March 11, 2022
-Document Guarantee deadline is April 8, 2022
-Term Match: "deadline" -> <p> Students who provide all documentation to the Financial Aid office by
-the guarantee deadline will be awarded before Alamance Community
-College’s first payment deadline. If documentation is provided after the
-deadline, students may not have their award in place before tuition is
-due. Students should make other arrangements to cover outstanding
-tuition until aid is awarded. You may click HERE for more information on tuition payment plans.
-Term Match: "deadline" -> <p> Students who provide all documentation to the Financial Aid office by the guarantee deadline will be awarded before Alamance Community College’s first payment deadline. If documentation is provided after the deadline, students may not have their award in place before tuition is due. Students should make other arrangements to cover outstanding tuition until aid is awarded. You may click HERE for more information on tuition payment plans.
-Term Match: "deadline" -> <p> Award Notifications: Financial aid award packages are e-mailed to those students whose files are complete by the priority date (June 1) as soon after June 1 as possible. By meeting the priority deadline, you are assured that your request for aid will be processed before the tuition payment deadline for the upcoming semester.
-Visiting https://www.alamancecc.edu/admissions-site/https-www-alamancecc-edu-admissions-site-files-2018-11-checklist-pdf/
-Visiting https://www.alamancecc.edu/events/2022-summer-fall-schedules-available-on-self-service-deadline-for-2022-spring-graduation-applications/
-Term Match: "deadline" -> <h1> 2022 Summer & Fall Schedules available on Self Service.  Deadline for 2022 Spring Graduation Applications.
-Term Match: "deadline" -> <h1> 2022 Summer & Fall Schedules available on Self Service.  Deadline for 2022 Spring Graduation Applications.
-Visiting https://www.alamancecc.edu/events/deadline-for-2022-summer-graduation-applications/
-Term Match: "deadline" -> <h1> Deadline for 2022 Summer Graduation Applications.
-Term Match: "deadline" -> <h1> Deadline for 2022 Summer Graduation Applications.
-Visiting https://www.alamancecc.edu/events/2022-summer-registration-deadline-is-230-pm-2022-summer-payment-deadline-is-300-pm/
-Term Match: "deadline" -> <h1> 2022 Summer Registration deadline is 2:30 pm & 2022 Summer Payment Deadline is 3:00 pm
-Term Match: "deadline" -> <h1> 2022 Summer Registration deadline is 2:30 pm & 2022 Summer Payment Deadline is 3:00 pm
-URLs with content matching Deadline term
-https://www.alamancecc.edu/financial-aid-site/applying-for-financial-aid/
-https://www.alamancecc.edu/events/2022-summer-fall-schedules-available-on-self-service-deadline-for-2022-spring-graduation-applications/
-https://www.alamancecc.edu/events/deadline-for-2022-summer-graduation-applications/
-https://www.alamancecc.edu/events/2022-summer-registration-deadline-is-230-pm-2022-summer-payment-deadline-is-300-pm/
-https://www.alamancecc.edu/financial-aid-site/
-URLs with content matching Deadline term
-Visiting https://alaskacc.edu
-Visiting https://alaskacc.edu/apply/
-URLs with content matching Deadline term
-Visiting https://alaskapacific.edu
-Visiting https://www.alaskapacific.edu/admissions/
-Visiting https://www.alaskapacific.edu/apply/
-Visiting https://www.alaskapacific.edu/admissions/meet-admissions/
-Visiting https://www.alaskapacific.edu/admissions/admissions-requirements/
-Term Match: "deadline" -> <h4> 3 – Check Application Deadlines
-Term Match: "deadline" -> <h4> 3 – Check Application Deadlines*
-Term Match: "deadline" -> <h4> 3 – Check Application Deadlines*
-Term Match: "deadline" -> <h4> 3 – Check Application Deadlines
-Term Match: "deadline" -> <h4> 2 – Check Application Deadlines*
-Visiting https://www.alaskapacific.edu/admissions/contact-admissions/
-URLs with content matching Deadline term
-https://www.alaskapacific.edu/admissions/admissions-requirements/
-Visiting https://acphs.edu
-Visiting https://www.acphs.edu/apply
-Visiting https://www.acphs.edu/admissions
-Visiting https://www.acphs.edu/application-dates-and-deadlines
-Visiting https://www.acphs.edu/admissions/financial-aid/dates-deadlines
-Term Match: "deadline" -> <h1> Dates & Deadlines
-Term Match: "deadline" -> <p> February 1, 2022
-2022-2023 FAFSA filing deadline for NEW students.
-Term Match: "deadline" -> <p> March 1, 2022
-2022-2023 FAFSA/Renewal FAFSA filing deadline for RETURNING students.
-Term Match: "deadline" -> <p> May 1, 2022
-Deadline for all 2022-2023 Financial Aid paperwork.
-Term Match: "deadline" -> <h1> Application Dates and Deadlines
-Term Match: "deadline" -> <p> Find all application-related dates and deadlines here
-Term Match: "deadline" -> <h4> freshmen students application dates and deadlines
-Term Match: "deadline" -> <h4> Transfer application Dates and Deadlines
-Term Match: "deadline" -> <h4> doctor of pharmacy application Dates and Deadlines
-Term Match: "deadline" -> <p> Academics
-Admission Dates & Deadlines
-Apply Now
-Contact Admissions
-Request Info
-Transfer Credits Database
-Visit Us
-URLs with content matching Deadline term
-https://www.acphs.edu/admissions/financial-aid/dates-deadlines
-https://www.acphs.edu/application-dates-and-deadlines
-https://www.acphs.edu/admissions
-URLs with content matching Deadline term
-Visiting https://albanytech.edu
-Visiting https://www.albanytech.edu/admissions/how-to-apply
-Visiting https://www.albanytech.edu/admissions
-Visiting https://www.albanytech.edu/apply-now
-Visiting https://www.albanytech.edu/admissions/admission-requirements
-Visiting https://www.albanytech.edu/admissions/admission-forms
-Visiting https://www.albanytech.edu/uploads/files/78/d6/78d6e4c75abe92c2226aa066ae6e269c.pdf
-Visiting https://www.albanytech.edu/financial-aid/how-to-apply-for-financial-aid
-Visiting https://www.albanytech.edu/financial-aid/reapplying-for-aid
-Term Match: "deadline" -> <p> All students must reapply for financial aid each year. The priority funding deadline to renew your financial aid is July 1st for the fall semester. All financial aid awards are reviewed annually based on:
-URLs with content matching Deadline term
-https://www.albanytech.edu/financial-aid/reapplying-for-aid
-Visiting https://albertus.edu
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/
-Visiting https://www.albertus.edu/admission-aid/
-Visiting https://www.albertus.edu/undergraduate-degrees/?utm_medium=mainlink&utm_source=Website&utm_campaign=ug-overview&utm_content=Main_Page_Undergraduate_Admissions
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/transfer-students
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/important-deadlines
-Visiting https://www.albertus.edu/undergraduate-degrees/
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/international-students.php
-Visiting https://www.albertus.edu/adult-accelerated-degrees/index.php
-Visiting https://www.albertus.edu/graduate-degrees/
-Visiting https://www.albertus.edu/graduate-degrees/admission-requirements.php
-Visiting https://www.albertus.edu/admission-aid/index.php
-Visiting https://www.albertus.edu/adult-accelerated-degrees/
-Visiting https://www.albertus.edu/adult-accelerated-degrees/admission-requirements.php
-Visiting https://www.albertus.edu/adult-accelerated-degrees/admissions-staff/meet-admissions-staff.php
-Visiting https://www.albertus.edu/adult-accelerated-degrees/admissions-staff/talk-with-a-counselor.php
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/index.php
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/find-counselor.php
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/find-counselor
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/dates-deadlines.php
-Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/international-students
-Term Match: "deadline" -> <h1> Important Deadlines For International Students
-Term Match: "deadline" -> <p> Albertus Magnus College has a rolling admissions program.  In order to best serve our international students we recommend the following deadlines to best assist in attaining proper immigration documentation and the best welcome you to our program.
-Term Match: "deadline" -> <h2> Undergraduate Admission Deadlines:
-Term Match: "deadline" -> <h2> Scholarships deadline: March 15
-Visiting https://www.albertus.edu/undergraduate-degrees?utm_source=AlbertusHomePage&utm_medium=TraditionalUndergraduateAdmissions&utm_term=UgAdmissions&utm_content=UGAdmissionsLink&utm_campaign=HomePageSideLink
-Visiting https://www.albertus.edu/adult-accelerated-degrees?utm_source=AlbertusHomePage&utm_medium=EveningUndergraduateAdmissions&utm_term=EugAdmissions&utm_content=EUGAdmissionsLink&utm_campaign=HomePageSideLink
-Visiting https://www.albertus.edu/graduate-degrees?utm_source=AlbertusHomePage&utm_medium=GraduateAdmissions&utm_term=GradAdmissions&utm_content=GRADAdmissionsLink&utm_campaign=HomePageSideLink
-URLs with content matching Deadline term
-https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/important-deadlines
-Visiting https://albion.edu
-Visiting https://www.albion.edu/admission/apply/
-Visiting https://www.albion.edu/admission/
-Visiting https://www.albion.edu/admission/counselors/
-Visiting https://www.albion.edu/admission/cost-financial-aid/
-Visiting https://www.albion.edu/admission/first-year/
-Term Match: "deadline" -> <p> The enrollment deposit deadline for both Early Action and Rolling Admission is May 1. Deposits are $225 until March 15, increasing to $350 after. The enrollment deposit is refundable until May 1.
-Term Match: "deadline" -> <h2> Application Deadlines
-Visiting https://www.albion.edu/admission/transfer/
-Visiting https://www.albion.edu/admission/transfer/transfer-admission-faqs/
-Visiting https://www.albion.edu/admission/international/
-Visiting https://www.albion.edu/admission/international/international-admission-faq/
-Term Match: "deadline" -> <p> The enrollment deposit deadline for both Early Action and Rolling Admission is May 1. Deposits are $285 until April 16, increasing to $350 after. The enrollment deposit is refundable until May 1.
-Term Match: "deadline" -> <h2> Application Deadlines for International Students
-URLs with content matching Deadline term
-https://www.albion.edu/admission/first-year/
-https://www.albion.edu/admission/international/
-Visiting https://albizu.edu
-Visiting https://www.albizu.edu/admissions/
-URLs with content matching Deadline term
-URLs with content matching Deadline term
 Visiting https://albright.edu
 Visiting https://www.albright.edu/admission-aid/apply-now/
 Visiting https://www.albright.edu/admission-aid/
@@ -201,66 +18,160 @@ Visiting https://www.albright.edu/admission-aid/international-students/
 Term Match: "deadline" -> <p> Application Deadlines
 Visiting https://albright.edu/admission-aid/apply-now/
 URLs with content matching Deadline term
-https://www.albright.edu/admission-aid/international-students/
 https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-faqs/
 https://www.albright.edu/admission-aid/first-year-students/
-Visiting https://alcorn.edu
-Error: Get "https://alcorn.edu": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
-URLs with content matching Deadline term
-URLs with content matching Deadline term
-URLs with content matching Deadline term
-Visiting https://alextech.edu
-Error: Get "https://alextech.edu": dial tcp 134.29.163.174:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
-URLs with content matching Deadline term
-Visiting https://alfred.edu
-Visiting https://www.alfred.edu/admissions/index.cfm
-Visiting https://www.alfred.edu/admissions/apply.cfm
-Visiting https://www.alfred.edu/admissions/undergraduate/transfer/index.cfm
-Visiting https://www.alfred.edu/admissions/undergraduate/readmission.cfm
-Visiting https://www.alfred.edu/admissions/undergraduate/transfer/checklist.cfm
-Term Match: "deadline" -> <h2> Application Deadlines
-Term Match: "deadline" -> <p> Welcome to Alfred University! As a transfer student, we know you probably have questions about transfer credits and course equivalencies, deadlines to apply, meeting program prerequisites and program specifics. Take a look around to find the answers, or reach out to us directly to start the application process.
-Term Match: "deadline" -> <h2> Deadlines & Application Process
-Visiting https://www.alfred.edu/admissions/graduate/apply.cfm
-Term Match: "deadline" -> <p> A $200 (US) deposit is required from all accepted students. Deposit deadlines vary by program and may be obtained by contacting the Office of Graduate Admissions by phone, 607-871-2115/800-541-9229 or email.
-Visiting https://www.alfred.edu/admissions/covid-19-faq.cfm
-Visiting https://www.alfred.edu/admissions/counselor-map/index.cfm
-Visiting https://www.alfred.edu/admissions/counselor-map/counselor-map-us.cfm
-Term Match: "deadline" -> <p> Application ProcessView Application Deadlines, Application Requirements, How to Apply and Steps to take after Acceptance.
-Term Match: "deadline" -> <p> Deadlines, Transfer Credits & Application
-Term Match: "deadline" -> <p> Application ProcessView Application Deadlines, Application Requirements, How to Apply, and Steps to take after Acceptance.
-Visiting https://www.alfred.edu/admissions/undergraduate/index.cfm
-Visiting https://www.alfred.edu/admissions/inquiry.cfm
-Visiting https://www.alfred.edu/admissions/graduate/index.cfm
+https://www.albright.edu/admission-aid/international-students/
+Visiting https://drexel.edu
+Visiting https://drexel.edu/admissions/
+Visiting https://drexel.edu/undergrad/
+Visiting https://drexel.edu/undergrad/financing/apply/
+Visiting https://drexel.edu/undergrad/life-at-drexel/blog/
+Visiting https://drexel.edu/undergrad/contact/representatives/
+Visiting https://drexel.edu/undergrad/contact/social-media/
+Visiting https://drexel.edu/undergrad/apply/
+Visiting https://drexel.edu/undergrad/apply/how-to-apply-for-college/
+Visiting https://drexel.edu/undergrad/apply/prereqs/
+Visiting https://drexel.edu/undergrad/apply/deadlines/
+Visiting https://drexel.edu/undergrad/apply/readmission/
+Visiting https://drexel.edu/undergrad/apply/transfer-instructions/
+Term Match: "deadline" -> <h2> Prerequisites and Deadlines
+Term Match: "deadline" -> <p> Before beginning your application to Drexel, please review our Admission Prerequisites and Application Deadlines.
+Term Match: "deadline" -> <h3> Deadlines
+Term Match: "deadline" -> <h1> Drexel Application Deadlines
+Term Match: "deadline" -> <p> A completed application and all required supplemental documents (e.g., official transcripts, official test scores, and portfolio) must be submitted before your application deadline. The application deadline is a received-by date, not a postmarked date, so please give yourself ample time to submit your documents prior to the deadline.
+Term Match: "deadline" -> <h2> First-Year Deadlines and Critical Dates (Domestic and International)
+Term Match: "deadline" -> <h2> Transfer Deadlines and Critical Dates
+Term Match: "deadline" -> <p> The application deadlines for transfer applicants vary depending on the term
+in which you wish to enroll. Refer to our Undergraduate Majors for program-specific limitations and
+entry terms. Music Industry transfer applicants may only enroll for the fall term and applications and required materials for this program must be received by April 15.
+Term Match: "deadline" -> <p> International Applicants: International application deadlines are for applicants who  do not currently live in the United States. Applicants residing in the United States may follow the general application deadlines.
+Term Match: "deadline" -> <h4>  Domestic Deadlines 
+Term Match: "deadline" -> <h4>  International Deadlines 
+Term Match: "deadline" -> <h4>  Domestic Deadlines	
+Term Match: "deadline" -> <h4>  International Deadlines	
+Term Match: "deadline" -> <h4>  Domestic Deadlines	
+Term Match: "deadline" -> <h4>  International Deadlines	
+Visiting https://drexel.edu/undergrad/apply/overview/
+Visiting https://drexel.edu/undergrad/apply/freshmen-instructions/
+Visiting https://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
+Term Match: "deadline" -> <p> Review Drexel's Application Deadlines.
+Term Match: "deadline" -> <p> Applicants should ensure they complete all necessary financial aid applications by the Early Decision deadline to maximize their eligibility for funding. Read more about How to Apply for Aid.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Term Match: "deadline" -> <h2> Prerequisites and Deadlines
+Term Match: "deadline" -> <p> Before beginning your application to Drexel, please review our Admission Prerequisites and Application Deadlines.
+Term Match: "deadline" -> <p> Refer to our Application Deadlines to view deadlines for financial aid documents. 
+Term Match: "deadline" -> <p> U.S. Citizens and permanent residents are required to submit both the CSS Profile and the Free Application for Federal Student Aid (FAFSA) by the appropriate deadline to be considered for the most financial aid. Applicants who do not submit the CSS Profile by the deadline will not be eligible for institutional need-based financial aid.
+Term Match: "deadline" -> <p> International applicants are required to submit the CSS Profile by the appropriate deadline to be considered for institutional need-based aid.  Applicants who do not submit this information by the deadline will not be eligible for institutional need-based financial aid. You can submit the CSS Profile on the College Board website; be sure to list Drexel so that we can receive this information.
+Term Match: "deadline" -> <p> Students applying for first-year admission are offered the choice of applying Early Decision, Early Action, or Regular Decision. Early Decision and Early Action applicants complete their applications earlier in order to receive an admission decision sooner. Applicants who choose to apply for Early Decision or Early Action will receive one of three possible decisions: an offer of admission, deferral to Regular Decision, or denied admission. Early Decision is binding, so if offered admission, students admitted for Early Decision must attend Drexel University and withdraw any applications submitted to other schools. Early Action is non-binding, so accepted students have until May 1 to explore their options. Students applying Regular Decision have a later deadline and will receive their decisions by April 1. This decision is also non-binding. Learn more about Early Decision and Early Action admission options.
+Visiting https://drexel.edu/undergrad/apply/winter-entry/
+Visiting https://drexel.edu/undergrad/resources/transfer/
+Visiting https://drexel.edu/undergrad/resources/transfer/dual-admission/
+Visiting https://drexel.edu/~/media/Files/undergrad/pdf/misc/guaranteed-admission-program.ashx?la=en
+Visiting https://drexel.edu/undergrad/visit/transfer-decision-days/
+Term Match: "deadline" -> <p> You are looking for the next steps in your college career. Considering where you'll continue your education can be stressful — so many details, deadlines, and decisions! To help you navigate the process of transferring to Drexel, we've gathered some important and helpful resources below.
+Term Match: "deadline" -> <h2> Prerequisites and Deadlines
+Term Match: "deadline" -> <p> Before beginning your application to Drexel, please review our Admission Prerequisites and Application Deadlines.
+Term Match: "deadline" -> <p> Refer to our Application Deadlines to view deadlines for financial aid documents. 
+Term Match: "deadline" -> <p> U.S. Citizens and permanent residents are required to submit both the 2021–2022 CSS Profile and the 2021–2022 Free Application for Federal Student Aid (FAFSA) by the appropriate deadline to be considered for the most financial aid. Applicants who do not submit the CSS Profile by the deadline will not be eligible for institutional need-based financial aid.
+Term Match: "deadline" -> <p> International applicants are required to submit the 2021–2022 CSS Profile by the appropriate deadline to be considered for institutional need-based aid.  Applicants who do not submit this information by the deadline will not be eligible for institutional need-based financial aid. You can submit the CSS Profile on the College Board website; be sure to list Drexel so that we can receive this information.
+Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
+Visiting https://drexel.edu/elc/apply/
+Visiting https://drexel.edu/elc/elc_programs/cond_admission_prog/
+Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/
+Visiting https://drexel.edu/elc/apply/dates_prices/costs/
+Visiting https://drexel.edu/elc/apply/app_forms/
+Term Match: "deadline" -> <h2> Prerequisites and Deadlines
+Term Match: "deadline" -> <h2> Review Drexel's admission prerequisites and application deadlines
+Term Match: "deadline" -> <p> Before beginning your application to Drexel, please review our Admission Prerequisites and Application Deadlines.
+Term Match: "deadline" -> <p> Be sure to submit all required materials before your application deadline.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Term Match: "deadline" -> <h3> Know Your Application Deadlines
+Term Match: "deadline" -> <p> Deadlines are critically important when submitting all of your application materials. There are a variety of different admission plans that schools on your list might use. Drexel has three admission plans for incoming first-year applicants (Early Decision, Early Action, and Regular Decision), and transfer applications are reviewed on a rolling basis.
+Term Match: "deadline" -> <p> It's never too early to plan how to finance your college education. From scholarships to federal assistance, you'll find there are many resources that may be available to you. Just as with your application materials, it is important to make note of any financial aid deadlines too. Learn how to apply for financial aid funding at Drexel.
+Term Match: "deadline" -> <h2> Review Drexel's admission prerequisites and application deadlines
+Term Match: "deadline" -> <p> Before beginning your application to Drexel, please review our Admission Prerequisites and Application Deadlines.
+Term Match: "deadline" -> <p> Be sure to submit all required materials before your application deadline.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Visiting https://drexel.edu/undergrad/contact/request-info/
+Visiting https://drexel.edu/undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
+Visiting https://drexel.edu/undergrad/contact/overview/
+Term Match: "deadline" -> <h3> Deadlines
+Term Match: "deadline" -> <p> *Students from North Korea cannot currently complete the CSS Profile. Instead, they should submit the International Student Financial Aid Application (ISFAA) according to the CSS Profile deadlines. Visit Drexel Central's How to File  the CSS Profile page for more information.
+Term Match: "deadline" -> <h3> Deadline
+Visiting https://drexel.edu/undergrad/announcements/news/2022/January/first-year-fafsa-priority-deadline/
+Term Match: "deadline" -> <h1> First-Year FAFSA Priority Deadline Submission Is February 15
+Term Match: "deadline" -> <p> The Free Application for Federal Student Aid (FAFSA) priority submission deadline for first-year students is February 15. The FAFSA is required for students who are interested in federal or state need-based financial aid.
+Visiting https://drexel.edu/undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Visiting https://drexel.edu/undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Visiting https://drexel.edu/undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Visiting https://drexel.edu/undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+Term Match: "deadline" -> <h1> Undergraduate Scholarship Deadlines Approaching
+Term Match: "deadline" -> <h1> First-Year Regular Decision Deadline Is January 15
+Term Match: "deadline" -> <p> The Regular Decision deadline for the fall 2022 term is January 15. Find out more about the application process, then apply using the Common Application or Coalition Application.
+Term Match: "deadline" -> <h1> Fall 2022 Liberty Scholars Deadline Is February 1
+Term Match: "deadline" -> <h1> First-Year Regular Decision CSS Profile Deadline Is February 15
+Term Match: "deadline" -> <p> The CSS Profile deadline for first-year Regular Decision applicants for fall 2022 is February 15. The CSS Profile is required if students are interested in institutional need-based financial aid.
+Visiting https://drexel.edu/part-time/
+Visiting https://drexel.edu/part-time/apply/
+Visiting https://drexel.edu/grad/
+Visiting https://drexel.edu/grad/financing/apply/
+Visiting https://drexel.edu/grad/contact/representatives/
+Visiting https://drexel.edu/grad/apply/
+Visiting https://drexel.edu/grad/apply/checklist/
+Visiting https://drexel.edu/grad/apply/readmission/
+Visiting https://drexel.edu/grad/apply/requirements/
+Term Match: "deadline" -> <h1> 		Program Requirements and Deadlines
+
+Term Match: "deadline" -> <p> Program Requirements and Deadlines
+Term Match: "deadline" -> <p> For application requirements, deadlines, and available concentrations, view our list of graduate programs or select the college or school you are applying to below, then choose your program.
+Term Match: "deadline" -> <h3> Deadlines
+Term Match: "deadline" -> <h2> Program Requirements and Deadlines
+Term Match: "deadline" -> <p> It is your responsibility to ensure that all materials required for the evaluation of your application are received by the Office of Admissions before the deadline. If your application is not complete by your program's deadline date, it may not be evaluated for the term requested.
+Term Match: "deadline" -> <p> Individual programs have specific deadlines and application requirements. To view the application requirements, deadlines, and available concentrations for your intended program, refer to our list of graduate programs or select the college or school you are applying to below and then choose your program:
 Term Match: "deadline" -> <p> 
-                                                                    We know you probably have questions about transferring your credits, deadlines to apply, meeting program prerequisites and managing timelines. You can find that information here. 
-                                                            
-URLs with content matching Deadline term
-https://www.alfred.edu/admissions/graduate/apply.cfm
-https://www.alfred.edu/admissions/apply.cfm
-https://www.alfred.edu/admissions/index.cfm
-https://www.alfred.edu/admissions/undergraduate/readmission.cfm
-https://www.alfred.edu/admissions/undergraduate/transfer/index.cfm
-Visiting https://alc.edu
-Visiting https://www.alc.edu/admissions/quick-facts/
-Visiting https://www.alc.edu/admissions/
-Visiting https://www.alc.edu/admissions/apply/
-Visiting https://www.alc.edu/admissions/college-fairs-admissions-events/
-URLs with content matching Deadline term
-URLs with content matching Deadline term
-Visiting https://allegany.edu
-Visiting https://www.allegany.edu/admissions/index.html
-Visiting https://allegany.edu/apply-now
-Error: Get "https://services.allegany.edu/admissions/application/": Not following redirect to services.allegany.edu because its not in AllowedDomains
-Visiting https://www.allegany.edu/admissions/documents/ACM-College-Application.pdf
-Visiting https://www.allegany.edu/financial-aid/spring2022-covid-19-scholarship.html
-URLs with content matching Deadline term
-Visiting https://allegheny.edu
-URLs with content matching Deadline term
-Visiting https://awc.edu
-Visiting https://awc.edu/admissions/
-Visiting https://awc.edu/apply/
+Please refer to the Program Requirements and Deadlines for the correct mailing address for your program.
+Visiting https://drexel.edu/grad/events/
+Visiting https://drexel.edu/grad/apply/online-app/
+Term Match: "deadline" -> <h2> Review your program's requirements and application deadlines
+Term Match: "deadline" -> <p> It is your responsibility to ensure that all materials required for the evaluation of your application are received by the Office of Admissions before the deadline. If your application is not complete by your program's deadline date, it may not be evaluated for the term requested.
+Term Match: "deadline" -> <p> Individual programs have specific deadlines and requirements. Please refer to the Program Requirements and Deadlines for more information.
+Term Match: "deadline" -> <p> Be sure to submit all required materials before your application deadline.
+Term Match: "deadline" -> <p> Refer to the Program Requirements and Deadlines for program-specific requirements.
+Visiting https://drexel.edu/drexelcentral/finaid/prospective-students/
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
+Term Match: "deadline" -> <p> Learn about Drexel's three admission plans, two financial aid applications we use, and respective deadlines for each.
 Term Match: "deadline" -> <h2> Deadlines
+Visiting https://drexel.edu/grad/contact/requestinfo/
+Visiting https://drexel.edu/undergrad/contact/
+Visiting https://drexel.edu/grad/contact/
+Term Match: "deadline" -> <h1> 
+FALL 2022 APPLICATION DEADLINE IS 1/15
 URLs with content matching Deadline term
-https://awc.edu/apply/
-Visiting https://allencollege.edu
+https://drexel.edu/undergrad/apply/overview/
+https://drexel.edu/undergrad/apply/how-to-apply-for-college/
+https://drexel.edu/undergrad/announcements/news/2022/January/first-year-fafsa-priority-deadline/
+https://drexel.edu/grad/apply/requirements/
+https://drexel.edu/drexelcentral/finaid/prospective-students/
+https://drexel.edu/grad/financing/apply/
+https://drexel.edu/undergrad/apply/transfer-instructions/
+https://drexel.edu/undergrad/apply/winter-entry/
+https://drexel.edu/undergrad/apply/
+https://drexel.edu/undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+https://drexel.edu/grad/apply/readmission/
+https://drexel.edu/grad/apply/
+https://drexel.edu
+https://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
+https://drexel.edu/undergrad/apply/freshmen-instructions/
+https://drexel.edu/undergrad/resources/transfer/
+https://drexel.edu/undergrad/financing/apply/
+https://drexel.edu/undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+https://drexel.edu/undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+https://drexel.edu/grad/apply/checklist/
+https://drexel.edu/undergrad/apply/readmission/
+https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
+https://drexel.edu/undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+https://drexel.edu/undergrad/apply/deadlines/
