@@ -14,11 +14,25 @@ func main() {
 		colly.AllowedDomains("drexel.edu"),
 	)
 
+	admissionTextTerms := []string{
+		"admission",
+		"apply",
+		"deadline",
+	}
+	matchesAdmissionTextTerms := func(text string) bool {
+		for i := 0; i < len(admissionTextTerms); i++ {
+			if s.Contains(s.ToLower(text), s.ToLower(admissionTextTerms[i])) {
+				return true
+			}
+		}
+
+		return false
+	}
 	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
 		text := e.Text
 		link := e.Attr("href")
 
-		if !s.Contains(s.ToLower(text), "admissions") && !s.Contains(s.ToLower(text), "apply") {
+		if !matchesAdmissionTextTerms(text) {
 			return
 		}
 
