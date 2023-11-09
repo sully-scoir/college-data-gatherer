@@ -11,9 +11,10 @@ import (
 func main() {
 	fmt.Println("College Data Gatherer - Admissions")
 
+	collegeDomain := "albright.edu"
 	startsWithHttpsRegExp, _ := regexp.Compile("^https")
 	c := colly.NewCollector(
-		colly.AllowedDomains("albright.edu", "www.albright.edu"),
+		colly.AllowedDomains(collegeDomain, "www."+collegeDomain),
 		colly.CacheDir("cache/"),
 		colly.URLFilters(startsWithHttpsRegExp),
 		// colly.Debugger(&debug.LogDebugger{}),
@@ -62,7 +63,7 @@ func main() {
 		fmt.Println("Error:", e)
 	})
 
-	c.Visit("https://albright.edu/")
+	c.Visit("https://" + collegeDomain)
 
 	fmt.Println("URLs with content matching Deadline term")
 	for u, _ := range deadlineUrls {
