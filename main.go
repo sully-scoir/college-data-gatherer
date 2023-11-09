@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"regexp"
 	s "strings"
 
 	"github.com/gocolly/colly"
@@ -10,9 +11,12 @@ import (
 func main() {
 	fmt.Println("College Data Gatherer - Admissions")
 
+	startsWithHttpsRegExp, _ := regexp.Compile("^https")
+
 	c := colly.NewCollector(
 		colly.AllowedDomains("drexel.edu"),
 		colly.CacheDir("cache/"),
+		colly.URLFilters(startsWithHttpsRegExp),
 	)
 
 	admissionTextTerms := []string{
