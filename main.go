@@ -61,7 +61,7 @@ func main() {
 
 	c.Visit("https://drexel.edu/admissions")
 
-	fmt.Println("URLs matching Early Decision term")
+	fmt.Println("URLs with content matching Early Decision term")
 	for u, _ := range earlyDecisionUrls {
 		fmt.Println(u)
 	}

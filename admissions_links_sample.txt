@@ -812,6 +812,6 @@ Link : "Apply" -> #aside-apply
 Link : "Apply Admissions" -> #
 Link : "Undergraduate Admissions" -> /undergrad/contact/
 Link : "Graduate Admissions" -> /grad/contact/
-URLs matching Early Decision term
-https://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
+URLs with content matching Early Decision term
 https://drexel.edu/undergrad/apply/deadlines/
+https://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
