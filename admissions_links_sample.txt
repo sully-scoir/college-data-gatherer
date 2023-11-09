@@ -153,6 +153,7 @@ Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-
 Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
 Link : "Application Deadlines" -> /undergrad/apply/deadlines/
 Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Term Match: "early decision" -> <h3> Early Decision
 Link : "Readmission Instructions" -> /undergrad/apply/readmission/
 Link : "Undergraduate Admissions" -> /undergrad/
 Link : "Apply" -> /undergrad/apply/
@@ -224,6 +225,14 @@ Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-
 Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
 Link : "Application Deadlines" -> /undergrad/apply/deadlines/
 Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Term Match: "early decision" -> <h1> Early Decision and Early Action Admission Options
+Term Match: "early decision" -> <h3> Early Decision (ED)
+Term Match: "early decision" -> <h2> Early Decision and Early Action FAQs
+Term Match: "early decision" -> <h3> What are the advantages of applying Early Decision?
+Term Match: "early decision" -> <h3> Is it easier to get into Drexel if I apply Early Decision?
+Term Match: "early decision" -> <h3> What is the difference between Early Decision and Early Action?
+Term Match: "early decision" -> <h3> Should I commit to Early Decision if financial aid is a factor for my family?
+Term Match: "early decision" -> <h3>  If I am not admitted in Early Decision or Early Action, can I apply for Regular Decision?
 Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
 Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
 Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
@@ -262,6 +271,940 @@ Link : "Apply Now" -> /undergrad/apply/overview/
 Link : "Dual Admissions Program" -> http://drexel.edu/undergrad/resources/transfer/dual-admission/
 Visiting http://drexel.edu/undergrad/resources/transfer/dual-admission/
 Link : "Undergraduate Admissions" -> /undergrad/
+Visiting http://drexel.edu/undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Visiting http://drexel.edu/undergrad/financing/apply/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Visiting http://drexel.edu/undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Visiting http://drexel.edu/undergrad/contact/representatives/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Visiting http://drexel.edu/undergrad/contact/social-media/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Visiting http://drexel.edu/undergrad/apply/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Visiting http://drexel.edu/undergrad/apply/how-to-apply-for-college/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Visiting http://drexel.edu/undergrad/apply/prereqs/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Visiting http://drexel.edu/undergrad/apply/deadlines/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Visiting http://drexel.edu/undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "admissions process" -> /undergrad/apply/transfer-instructions/
+Visiting http://drexel.edu/undergrad/apply/transfer-instructions/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Undergraduate Admission Application" -> #
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "contact your admissions representative" -> /undergrad/contact/representatives/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "westphal.admissions@drexel.edu" -> mailto:westphal.admissions@drexel.edu
+Link : "westphal.admissions@drexel.edu" -> mailto:Westphal.admissions@drexel.edu
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "transferadmissions@drexel.edu" -> mailto:transferadmissions@drexel.edu
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "transferadmissions@drexel.edu" -> mailto:transferadmissions@drexel.edu
+Link : "Domestic Deadlines" -> #
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "International Deadlines" -> #
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Domestic Deadlines" -> #
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "International Deadlines" -> #
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Domestic Deadlines" -> #
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "International Deadlines" -> #
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Term Match: "early decision" -> <h3> Early Decision
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Admissions Representatives page" -> /undergrad/contact/representatives/
+Link : "review the other application materials you need to complete if applying to Drexel" -> /undergrad/apply/overview/
+Visiting http://drexel.edu/undergrad/apply/overview/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Full-time first-year admission" -> /undergrad/apply/freshmen-instructions/
+Visiting http://drexel.edu/undergrad/apply/freshmen-instructions/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Undergraduate Admission Application" -> #
+Link : "admissions representative" -> https://drexel.edu/undergrad/contact/representatives/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "westphal.admissions@drexel.edu" -> mailto:westphal.admissions@drexel.edu
+Link : "westphal.admissions@drexel.edu" -> mailto:westphal.admissions@drexel.edu
+Link : "Learn more about Early Decision and Early Action admission options" -> /undergrad/apply/freshmen-instructions/early-decision-early-action/
+Visiting http://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Review Drexel's Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Term Match: "early decision" -> <h1> Early Decision and Early Action Admission Options
+Term Match: "early decision" -> <h3> Early Decision (ED)
+Term Match: "early decision" -> <h2> Early Decision and Early Action FAQs
+Term Match: "early decision" -> <h3> What are the advantages of applying Early Decision?
+Term Match: "early decision" -> <h3> Is it easier to get into Drexel if I apply Early Decision?
+Term Match: "early decision" -> <h3> What is the difference between Early Decision and Early Action?
+Term Match: "early decision" -> <h3> Should I commit to Early Decision if financial aid is a factor for my family?
+Term Match: "early decision" -> <h3>  If I am not admitted in Early Decision or Early Action, can I apply for Regular Decision?
+Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Full-time first-year winter entry admission" -> /undergrad/apply/winter-entry/
+Visiting http://drexel.edu/undergrad/apply/winter-entry/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "applying as a Transfer student" -> https://drexel.edu/undergrad/resources/transfer/
+Link : "Admission Prerequisites" -> https://drexel.edu/undergrad/apply/prereqs/
+Link : "Application Deadlines" -> https://drexel.edu/undergrad/apply/deadlines/#winter-entry
+Link : "Undergraduate Admission Application" -> #
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "westphal.admissions@drexel.edu" -> mailto:westphal.admissions@drexel.edu
+Link : "westphal.admissions@drexel.edu" -> mailto:westphal.admissions@drexel.edu
+Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Full-time transfer admission" -> /undergrad/apply/transfer-instructions/
+Link : "International Gateway program admission" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
+Visiting http://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
+Link : "Apply Now" -> /elc/apply/
+Visiting http://drexel.edu/elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Visiting http://drexel.edu/elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Drexel University Admissions" -> http://drexel.edu/undergrad/
+Link : "Drexel University Graduate Admissions" -> http://drexel.edu/grad/
+Visiting http://drexel.edu/grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Visiting http://drexel.edu/grad/financing/apply/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Visiting http://drexel.edu/grad/contact/representatives/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Visiting http://drexel.edu/grad/apply/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Visiting http://drexel.edu/grad/apply/checklist/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Visiting http://drexel.edu/grad/apply/readmission/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Visiting http://drexel.edu/grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "traditional admissions process" -> /grad/apply/
+Link : "admissions process" -> /undergrad/apply/transfer-instructions/
+Link : "Apply for admission" -> https://admissions.drexel.edu/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Graduate Admissions Events" -> https://drexel.edu/grad/events/
+Visiting https://drexel.edu/grad/events/
+Link : "Graduate Admissions" -> /grad/
+Visiting https://drexel.edu/grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Visiting https://drexel.edu/grad/financing/apply/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Visiting https://drexel.edu/grad/contact/representatives/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Visiting https://drexel.edu/grad/apply/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Visiting https://drexel.edu/grad/apply/checklist/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Visiting https://drexel.edu/grad/apply/readmission/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Visiting https://drexel.edu/grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "traditional admissions process" -> /grad/apply/
+Link : "admissions process" -> /undergrad/apply/transfer-instructions/
+Link : "Apply for admission" -> https://admissions.drexel.edu/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Graduate Admissions Events" -> https://drexel.edu/grad/events/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Graduate Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Graduate Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Apply Now" -> /grad/apply/online-app/
+Visiting https://drexel.edu/grad/apply/online-app/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus/Hybrid Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application" -> /grad/apply/online-app/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions Events" -> https://drexel.edu/grad/events/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Learn more about applying for aid at Drexel" -> /drexelcentral/finaid/prospective-students/
+Visiting https://drexel.edu/drexelcentral/finaid/prospective-students/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "\n\t\tApply Now\n\t\tApply today for graduate admission to Drexel.\n\t" -> /grad/apply/
+Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Graduate Admissions.\n\t" -> /grad/contact/requestinfo/
+Visiting https://drexel.edu/grad/contact/requestinfo/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "\n\t\tApply Now\n\t\tApply today for graduate admission to Drexel.\n\t" -> /grad/apply/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Graduate Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Graduate Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Apply Now" -> /grad/apply/online-app/
+Visiting http://drexel.edu/grad/apply/online-app/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Apply" -> /grad/apply/
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus/Hybrid Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application" -> /grad/apply/online-app/
+Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions Events" -> https://drexel.edu/grad/events/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Learn more about applying for aid at Drexel" -> /drexelcentral/finaid/prospective-students/
+Visiting http://drexel.edu/drexelcentral/finaid/prospective-students/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "\n\t\tApply Now\n\t\tApply today for graduate admission to Drexel.\n\t" -> /grad/apply/
+Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Graduate Admissions.\n\t" -> /grad/contact/requestinfo/
+Visiting http://drexel.edu/grad/contact/requestinfo/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions" -> /grad/
+Link : "Applying for Aid" -> /grad/financing/apply/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Apply" -> /grad/apply/
+Link : "Admission Application Instructions" -> /grad/apply/checklist/
+Link : "Readmission Instructions" -> /grad/apply/readmission/
+Link : "Requirements & Deadlines" -> /grad/apply/requirements/
+Link : "Graduate Admissions" -> /grad/
+Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Visiting http://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Visiting http://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Undergraduate Admission" -> http://drexel.edu/undergrad/apply/overview/
+Link : "Undergraduate Admissions Prerequisites" -> /undergrad/apply/prereqs/
+Link : "https://drexel.edu/elc/apply/dates_prices ./costs/" -> https://drexel.edu/elc/apply/dates_prices/costs/
+Visiting https://drexel.edu/elc/apply/dates_prices/costs/
+Link : "Apply Now" -> /elc/apply/
+Visiting https://drexel.edu/elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Visiting https://drexel.edu/elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Drexel University Admissions" -> http://drexel.edu/undergrad/
+Link : "Drexel University Graduate Admissions" -> http://drexel.edu/grad/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Undergraduate Admission" -> http://drexel.edu/undergrad/apply/overview/
+Link : "Undergraduate Admissions Prerequisites" -> /undergrad/apply/prereqs/
+Link : "https://drexel.edu/elc/apply/dates_prices ./costs/" -> https://drexel.edu/elc/apply/dates_prices/costs/
+Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Conditional Admission programs" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/app_forms/
+Visiting https://drexel.edu/elc/apply/app_forms/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/app_forms/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/app_forms/
+Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Conditional Admission programs" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/app_forms/
+Visiting http://drexel.edu/elc/apply/app_forms/
+Link : "Apply Now" -> /elc/apply/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/
+Link : "Apply Now" -> /elc/apply/app_forms/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Apply Now" -> /elc/apply/
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Gateway Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Drexel University Admissions Application" -> https://admissions.drexel.edu/apply
+Link : "View your application options when applying to Drexel" -> /undergrad/apply/overview/
+Link : "Learn how to apply for financial aid funding at Drexel" -> /undergrad/financing/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Full-time first-year admission" -> /undergrad/apply/freshmen-instructions/
+Link : "Full-time first-year winter entry admission" -> /undergrad/apply/winter-entry/
+Link : "Full-time transfer admission" -> /undergrad/apply/transfer-instructions/
+Link : "International Gateway program admission" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "\n        facebook.com/drexeladmission\n    " -> http://www.facebook.com/drexeladmission
+Link : "\n        twitter.com/drexeladmission\n    " -> http://twitter.com/DrexelAdmission
+Link : "\n        instagram.com/drexeladmission\n    " -> http://instagram.com/drexeladmission
+Link : "\n        drexeladmission\n    " -> https://www.snapchat.com/add/drexeladmission
+Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Undergraduate Admissions.\n\t" -> /undergrad/contact/request-info/
+Visiting http://drexel.edu/undergrad/contact/request-info/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "\n\nTransferring Skills From the Physics Classroom to Co-op\nposted by: Guest Blogger\nDiscover how taking classes as a student in the College of Arts and Sciences can apply to the real-world experiences found on co-op.\nRead Full Post\n" -> /undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
+Visiting http://drexel.edu/undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Contact Undergraduate Admissions" -> /undergrad/contact/overview/
+Visiting http://drexel.edu/undergrad/contact/overview/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Contact Your Undergraduate Admission Representative" -> /undergrad/contact/representatives/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Apply Now" -> /undergrad/apply/overview/
+Link : "First-Year FAFSA Priority Deadline Submission Is February 15" -> /undergrad/announcements/news/2022/January/first-year-fafsa-priority-deadline/
+Visiting http://drexel.edu/undergrad/announcements/news/2022/January/first-year-fafsa-priority-deadline/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "FAFSA Priority Deadline" -> /undergrad/announcements/news/2022/January/first-year-fafsa-priority-deadline/
+Link : "First-Year Regular Decision CSS Profile Deadline Is February 15" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Visiting http://drexel.edu/undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "First-Year Regular Decision CSS Profile Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Link : "Liberty Scholars Application Deadline" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Visiting http://drexel.edu/undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "First-Year Regular Decision CSS Profile Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Link : "Liberty Scholars Application Deadline" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Link : "First-Year Regular Decision Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Visiting http://drexel.edu/undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply Today" -> /undergrad/apply/overview/
+Link : "First-Year Regular Decision CSS Profile Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Link : "Liberty Scholars Application Deadline" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Link : "First-Year Regular Decision Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Link : "Undergraduate Scholarship Deadlines Approaching" -> /undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+Visiting http://drexel.edu/undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "First-Year Regular Decision CSS Profile Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
+Link : "Liberty Scholars Application Deadline" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Link : "First-Year Regular Decision Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Link : "Undergraduate Scholarship Deadlines Approaching" -> /undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+Link : "Undergraduate Scholarship Deadlines Approaching" -> /undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+Link : "First-Year Regular Decision Deadline" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Link : "Undergraduate Scholarship Deadlines Approaching" -> /undergrad/announcements/news/2021/November/undergrad-scholarship-deadlines/
+Link : "Fall Liberty Scholars Application Deadline Is February 1" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
+Link : "First-Year Regular Decision Deadline Is January 15" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
+Link : "\n\nTransferring Skills From the Physics Classroom to Co-op\nposted by: Guest Blogger\nDiscover how taking classes as a student in the College of Arts and Sciences can apply to the real-world experiences found on co-op.\n\n\n\n" -> /undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Dual Admissions Program GPA and Prerequisite Requirements [PDF]" -> /~/media/Files/undergrad/pdf/misc/guaranteed-admission-program.ashx?la=en
+Visiting http://drexel.edu/~/media/Files/undergrad/pdf/misc/guaranteed-admission-program.ashx?la=en
+Link : "Dual Admissions Program GPA and Prerequisite Requirements [PDF]" -> /~/media/Files/undergrad/pdf/misc/guaranteed-admission-program.ashx?la=en
+Link : "\n\t\tTransfer Instant Decision Days\n\t\tFind out how you can schedule an appointment to meet with an admissions counselor and receive an admission decision that day.\n\t" -> /undergrad/visit/transfer-decision-days/
+Visiting http://drexel.edu/undergrad/visit/transfer-decision-days/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Admission Prerequisites page" -> /undergrad/apply/prereqs/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "transferadmissions@drexel.edu" -> mailto:transferadmissions@drexel.edu
+Link : "\n\t\tApply Now\n\t\tApply today for undergraduate admission.\n\t" -> /undergrad/apply/overview/
+Link : "Dual Admissions Program" -> /undergrad/resources/transfer/dual-admission/
+Link : "Readmission" -> /undergrad/apply/readmission/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Dual Admissions Program" -> /undergrad/resources/transfer/dual-admission/
+Visiting https://drexel.edu/undergrad/resources/transfer/dual-admission/
+Link : "Undergraduate Admissions" -> /undergrad/
 Link : "Undergraduate Admissions" -> /undergrad/
 Link : "How to Apply for Aid" -> /undergrad/financing/apply/
 Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
@@ -295,26 +1238,6 @@ Link : "Drexel University's Admission Application" -> https://admissions.drexel.
 Link : "transferadmissions@drexel.edu" -> mailto:transferadmissions@drexel.edu
 Link : "\n\t\tApply Now\n\t\tApply today for undergraduate admission.\n\t" -> /undergrad/apply/overview/
 Link : "Dual Admissions Program" -> /undergrad/resources/transfer/dual-admission/
-Visiting https://drexel.edu/undergrad/resources/transfer/dual-admission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "How to Apply for Aid" -> /undergrad/financing/apply/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Dual Admissions Program GPA and Prerequisite Requirements [PDF]" -> /~/media/Files/undergrad/pdf/misc/guaranteed-admission-program.ashx?la=en
-Link : "Dual Admissions Program GPA and Prerequisite Requirements [PDF]" -> /~/media/Files/undergrad/pdf/misc/guaranteed-admission-program.ashx?la=en
-Link : "\n\t\tTransfer Instant Decision Days\n\t\tFind out how you can schedule an appointment to meet with an admissions counselor and receive an admission decision that day.\n\t" -> /undergrad/visit/transfer-decision-days/
-Link : "Dual Admissions Program" -> /undergrad/resources/transfer/dual-admission/
-Link : "Readmission" -> /undergrad/apply/readmission/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Dual Admissions Program" -> /undergrad/resources/transfer/dual-admission/
 Link : "Admission Prerequisites" -> https://drexel.edu/undergrad/apply/prereqs/
 Link : "Application Deadlines" -> https://drexel.edu/undergrad/apply/deadlines/#winter-entry
 Link : "Undergraduate Admission Application" -> #
@@ -331,17 +1254,133 @@ Link : "Full-time transfer admission" -> /undergrad/apply/transfer-instructions/
 Link : "International Gateway program admission" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
 Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
 Link : "Apply Now" -> /elc/apply/
-Visiting https://drexel.edu/elc/apply/
-Link : "Apply Now" -> /elc/apply/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Visiting https://drexel.edu/elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
 Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
 Link : "Apply Now" -> /elc/apply/
-Link : "Drexel University Admissions" -> http://drexel.edu/undergrad/
-Visiting http://drexel.edu/undergrad/
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Gateway Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
+Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
+Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
+Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Drexel University Admissions Application" -> https://admissions.drexel.edu/apply
+Link : "View your application options when applying to Drexel" -> /undergrad/apply/overview/
+Link : "Learn how to apply for financial aid funding at Drexel" -> /undergrad/financing/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Apply" -> /undergrad/apply/
+Link : "Full-time first-year admission" -> /undergrad/apply/freshmen-instructions/
+Link : "Full-time first-year winter entry admission" -> /undergrad/apply/winter-entry/
+Link : "Full-time transfer admission" -> /undergrad/apply/transfer-instructions/
+Link : "International Gateway program admission" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
+Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
+Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "\n        facebook.com/drexeladmission\n    " -> http://www.facebook.com/drexeladmission
+Link : "\n        twitter.com/drexeladmission\n    " -> http://twitter.com/DrexelAdmission
+Link : "\n        instagram.com/drexeladmission\n    " -> http://instagram.com/drexeladmission
+Link : "\n        drexeladmission\n    " -> https://www.snapchat.com/add/drexeladmission
+Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Undergraduate Admissions.\n\t" -> /undergrad/contact/request-info/
+Visiting https://drexel.edu/undergrad/contact/request-info/
 Link : "Undergraduate Admissions" -> /undergrad/
 Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "\n\nTransferring Skills From the Physics Classroom to Co-op\nposted by: Guest Blogger\nDiscover how taking classes as a student in the College of Arts and Sciences can apply to the real-world experiences found on co-op.\nRead Full Post\n" -> /undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
+Visiting https://drexel.edu/undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Contact Undergraduate Admissions" -> /undergrad/contact/overview/
+Visiting https://drexel.edu/undergrad/contact/overview/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "How to Apply for Aid" -> /undergrad/financing/apply/
+Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
+Link : "Apply" -> /undergrad/apply/
+Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
+Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
+Link : "Application Deadlines" -> /undergrad/apply/deadlines/
+Link : "Readmission Instructions" -> /undergrad/apply/readmission/
+Link : "Undergraduate Admissions" -> /undergrad/
+Link : "Contact Your Undergraduate Admission Representative" -> /undergrad/contact/representatives/
+Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
+Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
 Link : "How to Apply for Aid" -> /undergrad/financing/apply/
 Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
 Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
@@ -440,390 +1479,6 @@ Link : "Undergraduate Scholarship Deadlines Approaching" -> /undergrad/announcem
 Link : "Fall Liberty Scholars Application Deadline Is February 1" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
 Link : "First-Year Regular Decision Deadline Is January 15" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
 Link : "\n\nTransferring Skills From the Physics Classroom to Co-op\nposted by: Guest Blogger\nDiscover how taking classes as a student in the College of Arts and Sciences can apply to the real-world experiences found on co-op.\n\n\n\n" -> /undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
-Visiting https://drexel.edu/undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "How to Apply for Aid" -> /undergrad/financing/apply/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Drexel University Graduate Admissions" -> http://drexel.edu/grad/
-Visiting http://drexel.edu/grad/
-Link : "Graduate Admissions" -> /grad/
-Visiting https://drexel.edu/grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Visiting https://drexel.edu/grad/financing/apply/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Visiting https://drexel.edu/grad/contact/representatives/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Visiting https://drexel.edu/grad/apply/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Visiting https://drexel.edu/grad/apply/checklist/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Visiting https://drexel.edu/grad/apply/readmission/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Visiting https://drexel.edu/grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Apply" -> /grad/apply/
-Link : "traditional admissions process" -> /grad/apply/
-Link : "admissions process" -> /undergrad/apply/transfer-instructions/
-Link : "Apply for admission" -> https://admissions.drexel.edu/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Apply" -> /grad/apply/
-Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
-Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
-Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Apply" -> /grad/apply/
-Link : "Graduate Admissions Events" -> https://drexel.edu/grad/events/
-Visiting https://drexel.edu/grad/events/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "\n\t\tApply Now\n\t\tApply today for graduate admission to Drexel.\n\t" -> /grad/apply/
-Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Graduate Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Graduate Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Apply Now" -> /grad/apply/online-app/
-Visiting https://drexel.edu/grad/apply/online-app/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Apply" -> /grad/apply/
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus/Hybrid Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for On-Campus Programs" -> http://admissions.drexel.edu/apply/
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Apply for Online Programs" -> https://online.drexel.edu/online-degrees/apply.aspx
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Admission Application" -> /grad/apply/online-app/
-Link : "Program Requirements and Deadlines" -> /grad/apply/requirements/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions Events" -> https://drexel.edu/grad/events/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Learn more about applying for aid at Drexel" -> /drexelcentral/finaid/prospective-students/
-Visiting https://drexel.edu/drexelcentral/finaid/prospective-students/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "\n\t\tApply Now\n\t\tApply today for graduate admission to Drexel.\n\t" -> /grad/apply/
-Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Graduate Admissions.\n\t" -> /grad/contact/requestinfo/
-Visiting https://drexel.edu/grad/contact/requestinfo/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "Graduate Admissions" -> /grad/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Graduate Admissions" -> /grad/
-Link : "Applying for Aid" -> /grad/financing/apply/
-Link : "Graduate Admissions Representatives" -> /grad/contact/representatives/
-Link : "Apply" -> /grad/apply/
-Link : "Admission Application Instructions" -> /grad/apply/checklist/
-Link : "Readmission Instructions" -> /grad/apply/readmission/
-Link : "Requirements & Deadlines" -> /grad/apply/requirements/
-Link : "\n\t\tApply Now\n\t\tApply today for graduate admission to Drexel.\n\t" -> /grad/apply/
-Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Graduate Admissions.\n\t" -> /grad/contact/requestinfo/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
-Link : "Apply Now" -> /elc/apply/
-Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Link : "Apply Now" -> /elc/apply/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
-Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
-Visiting https://drexel.edu/elc/elc_programs/international-gateway-program/applying-to-gateway/
-Link : "Apply Now" -> /elc/apply/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
-Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
-Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
-Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Undergraduate Admission" -> http://drexel.edu/undergrad/apply/overview/
-Visiting http://drexel.edu/undergrad/apply/overview/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "How to Apply for Aid" -> /undergrad/financing/apply/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Apply" -> /undergrad/apply/
-Link : "Full-time first-year admission" -> /undergrad/apply/freshmen-instructions/
-Link : "Full-time first-year winter entry admission" -> /undergrad/apply/winter-entry/
-Link : "Full-time transfer admission" -> /undergrad/apply/transfer-instructions/
-Link : "International Gateway program admission" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
-Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
-Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions Prerequisites" -> /undergrad/apply/prereqs/
-Link : "https://drexel.edu/elc/apply/dates_prices ./costs/" -> https://drexel.edu/elc/apply/dates_prices/costs/
-Visiting https://drexel.edu/elc/apply/dates_prices/costs/
-Link : "Apply Now" -> /elc/apply/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
-Link : "Apply Now" -> /elc/apply/
-Link : "Apply Now" -> /elc/apply/app_forms/
-Visiting https://drexel.edu/elc/apply/app_forms/
-Link : "Apply Now" -> /elc/apply/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
-Link : "Apply Now" -> /elc/apply/
-Link : "Apply Now" -> /elc/apply/app_forms/
-Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
-Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
-Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Conditional Admission programs" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/app_forms/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Apply Now" -> /elc/apply/
-Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
-Link : "Gateway Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Link : "\n\t\tApply Now\n\t\tInternational Gateway Application\n\t" -> https://admissions.drexel.edu/apply/?sr=908afe2f-f6d0-47aa-8a61-a2c2ea51f876
-Link : "Applying to Gateway" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/
-Link : "Admission Criteria" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/admiss-criteria/
-Link : "Conditional Admission" -> /elc/elc_programs/cond_admission_prog/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
-Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
-Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Drexel University Admissions Application" -> https://admissions.drexel.edu/apply
-Link : "View your application options when applying to Drexel" -> /undergrad/apply/overview/
-Link : "Learn how to apply for financial aid funding at Drexel" -> /undergrad/financing/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Apply" -> /undergrad/apply/
-Link : "Full-time first-year admission" -> /undergrad/apply/freshmen-instructions/
-Link : "Full-time first-year winter entry admission" -> /undergrad/apply/winter-entry/
-Link : "Full-time transfer admission" -> /undergrad/apply/transfer-instructions/
-Link : "International Gateway program admission" -> /elc/elc_programs/international-gateway-program/applying-to-gateway/app-instruc/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Admission Prerequisites" -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Drexel University's Admission Application\n        " -> https://admissions.drexel.edu/apply/
-Link : "Drexel University's Admission Application" -> https://admissions.drexel.edu/apply/
-Link : "\n\t\tApply Now\n\t\tFirst-Year Students\n\t" -> http://www.commonapp.org/school/drexel-university
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "\n        facebook.com/drexeladmission\n    " -> http://www.facebook.com/drexeladmission
-Link : "\n        twitter.com/drexeladmission\n    " -> http://twitter.com/DrexelAdmission
-Link : "\n        instagram.com/drexeladmission\n    " -> http://instagram.com/drexeladmission
-Link : "\n        drexeladmission\n    " -> https://www.snapchat.com/add/drexeladmission
-Link : "\n\t\tRequest Information\n\t\tSign up to receive updates from Undergraduate Admissions.\n\t" -> /undergrad/contact/request-info/
-Visiting https://drexel.edu/undergrad/contact/request-info/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "How to Apply for Aid" -> /undergrad/financing/apply/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "\n\nTransferring Skills From the Physics Classroom to Co-op\nposted by: Guest Blogger\nDiscover how taking classes as a student in the College of Arts and Sciences can apply to the real-world experiences found on co-op.\nRead Full Post\n" -> /undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Contact Undergraduate Admissions" -> /undergrad/contact/overview/
-Visiting https://drexel.edu/undergrad/contact/overview/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "How to Apply for Aid" -> /undergrad/financing/apply/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Undergraduate Admissions" -> /undergrad/
-Link : "Contact Your Undergraduate Admission Representative" -> /undergrad/contact/representatives/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "How to Apply for Aid" -> /undergrad/financing/apply/
-Link : "Admissions Blog" -> /undergrad/life-at-drexel/blog/
-Link : "Undergraduate Admissions Representatives" -> /undergrad/contact/representatives/
-Link : "Follow Drexel Admissions" -> /undergrad/contact/social-media/
-Link : "Apply" -> /undergrad/apply/
-Link : "Tips for How to Apply for College" -> /undergrad/apply/how-to-apply-for-college/
-Link : "Admission Prerequisites " -> /undergrad/apply/prereqs/
-Link : "Application Deadlines" -> /undergrad/apply/deadlines/
-Link : "Readmission Instructions" -> /undergrad/apply/readmission/
-Link : "Apply Now" -> /undergrad/apply/overview/
-Link : "First-Year FAFSA Priority Deadline Submission Is February 15" -> /undergrad/announcements/news/2022/January/first-year-fafsa-priority-deadline/
-Link : "First-Year Regular Decision CSS Profile Deadline Is February 15" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-css-profile-deadline/
-Link : "Fall Liberty Scholars Application Deadline Is February 1" -> /undergrad/announcements/news/2021/November/liberty-scholars-deadline/
-Link : "First-Year Regular Decision Deadline Is January 15" -> /undergrad/announcements/news/2021/November/first-year-regular-decision-deadline/
-Link : "\n\nTransferring Skills From the Physics Classroom to Co-op\nposted by: Guest Blogger\nDiscover how taking classes as a student in the College of Arts and Sciences can apply to the real-world experiences found on co-op.\n\n\n\n" -> /undergrad/life-at-drexel/blog/2021/December/transferring-skills-from-the-physics-classroom-to-co-op/
 Link : "Part-Time Undergraduate Admissions" -> /part-time/
 Visiting https://drexel.edu/part-time/
 Link : "Part-Time Undergraduate Admissions" -> /part-time/
@@ -877,3 +1532,8 @@ Link : "Apply" -> #aside-apply
 Link : "Apply Admissions" -> #
 Link : "Undergraduate Admissions" -> /undergrad/contact/
 Link : "Graduate Admissions" -> /grad/contact/
+URLs matching Early Decision term
+http://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
+https://drexel.edu/undergrad/apply/deadlines/
+https://drexel.edu/undergrad/apply/freshmen-instructions/early-decision-early-action/
+http://drexel.edu/undergrad/apply/deadlines/

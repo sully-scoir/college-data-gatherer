@@ -12,6 +12,7 @@ func main() {
 
 	c := colly.NewCollector(
 		colly.AllowedDomains("drexel.edu"),
+		colly.CacheDir("cache/"),
 	)
 
 	admissionTextTerms := []string{
@@ -41,9 +42,23 @@ func main() {
 		c.Visit(e.Request.AbsoluteURL(link))
 	})
 
+	earlyDecisionTerm := "early decision"
+	earlyDecisionUrls := map[string]bool{}
+	c.OnHTML("h1, h2, h3, h4, h5, h6", func(e *colly.HTMLElement) {
+		if s.Contains(s.ToLower(e.Text), s.ToLower(earlyDecisionTerm)) {
+			fmt.Printf("Term Match: %q -> <%s> %s\n", earlyDecisionTerm, e.Name, e.Text)
+			earlyDecisionUrls[e.Request.URL.String()] = true
+		}
+	})
+
 	c.OnRequest(func(r *colly.Request) {
 		fmt.Println("Visiting", r.URL.String())
 	})
 
 	c.Visit("https://drexel.edu/admissions")
+
+	fmt.Println("URLs matching Early Decision term")
+	for u, _ := range earlyDecisionUrls {
+		fmt.Println(u)
+	}
 }
