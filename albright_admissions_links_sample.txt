@@ -16,6 +16,7 @@ Term Match: "deadline" -> <p> Deadlines are important, and the schedules below a
 Visiting https://www.albright.edu/admission-aid/first-generation-students/admission-lingo/
 Visiting https://www.albright.edu/admission-aid/international-students/
 Term Match: "deadline" -> <p> Application Deadlines
+Visiting https://albright.edu/admission-aid/apply-now/
 URLs with content matching Deadline term
 https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-faqs/
 https://www.albright.edu/admission-aid/first-year-students/
