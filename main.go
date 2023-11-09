@@ -1,7 +1,11 @@
 package main
 
 import (
+	"encoding/csv"
 	"fmt"
+	"io"
+	"log"
+	"os"
 	"regexp"
 	s "strings"
 
@@ -11,7 +15,60 @@ import (
 func main() {
 	fmt.Println("College Data Gatherer - Admissions")
 
-	collegeDomain := "albright.edu"
+	collegesCsv := "college-admissions.csv"
+	colleges := readCollegesCsv(collegesCsv)
+
+	// fmt.Println("colleges:", colleges)
+
+	for _, c := range colleges {
+		crawlCollege(c.Domain)
+	}
+}
+
+type College struct {
+	Name   string
+	Domain string
+}
+
+func readCollegesCsv(collegesCsv string) []College {
+	f, err := os.Open(collegesCsv)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer f.Close()
+
+	r := csv.NewReader(f)
+	colleges := []College{}
+	headerSkipped := false
+	trimHttpWww := func(domain string) string {
+		domain = s.TrimPrefix(domain, "http://")
+		domain = s.TrimPrefix(domain, "https://")
+		domain = s.TrimPrefix(domain, "www.")
+		return domain
+	}
+	for {
+		row, err := r.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			log.Fatal(err)
+		}
+		if !headerSkipped {
+			headerSkipped = true
+			continue
+		}
+
+		college := College{}
+		college.Name = row[0]
+		college.Domain = trimHttpWww(row[2])
+		colleges = append(colleges, college)
+	}
+
+	return colleges
+}
+
+func crawlCollege(collegeDomain string) {
 	startsWithHttpsRegExp, _ := regexp.Compile("^https")
 	c := colly.NewCollector(
 		colly.AllowedDomains(collegeDomain, "www."+collegeDomain),

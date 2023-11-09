@@ -1,0 +1,266 @@
+College Data Gatherer - Admissions
+URLs with content matching Deadline term
+Visiting https://aib.edu
+Error: Get "https://aib.edu": dial tcp: lookup aib.edu on 172.18.48.1:53: no such host
+URLs with content matching Deadline term
+Visiting https://atc.edu
+URLs with content matching Deadline term
+Visiting https://aims.edu
+Error: Get "https://aims.edu": x509: certificate is valid for d.sni.fastly.net, not aims.edu
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+Visiting https://alasu.edu
+Visiting https://www.alasu.edu/admissions/undergraduate-admissions
+Visiting https://www.alasu.edu/admissions/graduate-admissions
+Visiting https://www.alasu.edu/application
+Error: Get "https://hornetsnest.alasu.edu/psp/pa91prd/EMPLOYEE/SA/c/ASU_SS_NONID_MENU.ASU_SS_ONL_SECURE.GBL?PORTALPARAM_PTCNAV=ASU_LK_ONLINEAPP&EOPP_SCNode=EMPL&EOPP_SCPortal=EMPLOYEE&EOPP_SCName=ASU_NG_PROSPECTSTU&EOPP_SCLabel=ASU_NG_PROSPECTSTU&EOPP_SCPTcname&FolderPath=PORTAL_ROOT_OBJECT.PORTAL_BASE_DATA.CO_NAVIGATION_COLLECTIONS.ASU_NG_PROSPECTSTU.ASU_S200912161041161408734397&IsFolder=false": Not following redirect to hornetsnest.alasu.edu because its not in AllowedDomains
+Term Match: "deadline" -> <h2> Deadlines
+Visiting https://www.alasu.edu/our-recruiters
+Visiting https://www.alasu.edu/admissions/undergrad-admissions/early-admission
+Visiting https://www.alasu.edu/admissions/undergrad-admissions/admissions-documents
+Visiting https://www.alasu.edu/admissions/faqs/index.aspx
+Error: Not Found
+Visiting https://www.alasu.edu/student-life/housingresidence-life/housing-residence-life
+Visiting https://www.alasu.edu/admissions/undergrad-admissions/asu-academic-scholarships
+Term Match: "deadline" -> <p> High school seniors, below are the requirements and deadlines for applying to Alabama State University. If you are not a high school senior, check out the admissions pages for GED Applicants, Transfer Students or International Students.
+Term Match: "deadline" -> <h2> Deadlines
+Term Match: "deadline" -> <p>  View other important dates and deadlines on ASU's Academic Calendar.
+URLs with content matching Deadline term
+https://www.alasu.edu/admissions/graduate-admissions
+https://www.alasu.edu/admissions/undergraduate-admissions
+Visiting https://alamancecc.edu
+Visiting https://www.alamancecc.edu/admissions/
+Visiting https://www.alamancecc.edu/admissions-site/home/
+Visiting https://www.alamancecc.edu/admissions-site/contact-admissions/
+Visiting https://www.alamancecc.edu/financial-aid-site/applying-for-financial-aid/
+Visiting https://www.alamancecc.edu/financial-aid-site/applying-for-next-year/
+Visiting https://www.alamancecc.edu/financial-aid-site/
+Term Match: "deadline" -> <h4> Priority deadline is July 19, 2021
+Application Guarantee deadline is October 4, 2021
+Document Guarantee deadline is November 8, 2021
+Term Match: "deadline" -> <p> Students who provide all documentation to the Financial Aid office by
+the guarantee deadline will be awarded before Alamance Community
+College’s first payment deadline. If documentation is provided after the
+deadline, students may not have their award in place before tuition is
+due. Students should make other arrangements to cover outstanding
+tuition until aid is awarded. You may click HERE for more information on tuition payment plans.
+Term Match: "deadline" -> <h4> Priority deadline is January 31, 2022
+Application Guarantee deadline is March 11, 2022
+Document Guarantee deadline is April 8, 2022
+Term Match: "deadline" -> <p> Students who provide all documentation to the Financial Aid office by
+the guarantee deadline will be awarded before Alamance Community
+College’s first payment deadline. If documentation is provided after the
+deadline, students may not have their award in place before tuition is
+due. Students should make other arrangements to cover outstanding
+tuition until aid is awarded. You may click HERE for more information on tuition payment plans.
+Term Match: "deadline" -> <p> Students who provide all documentation to the Financial Aid office by the guarantee deadline will be awarded before Alamance Community College’s first payment deadline. If documentation is provided after the deadline, students may not have their award in place before tuition is due. Students should make other arrangements to cover outstanding tuition until aid is awarded. You may click HERE for more information on tuition payment plans.
+Term Match: "deadline" -> <p> Award Notifications: Financial aid award packages are e-mailed to those students whose files are complete by the priority date (June 1) as soon after June 1 as possible. By meeting the priority deadline, you are assured that your request for aid will be processed before the tuition payment deadline for the upcoming semester.
+Visiting https://www.alamancecc.edu/admissions-site/https-www-alamancecc-edu-admissions-site-files-2018-11-checklist-pdf/
+Visiting https://www.alamancecc.edu/events/2022-summer-fall-schedules-available-on-self-service-deadline-for-2022-spring-graduation-applications/
+Term Match: "deadline" -> <h1> 2022 Summer & Fall Schedules available on Self Service.  Deadline for 2022 Spring Graduation Applications.
+Term Match: "deadline" -> <h1> 2022 Summer & Fall Schedules available on Self Service.  Deadline for 2022 Spring Graduation Applications.
+Visiting https://www.alamancecc.edu/events/deadline-for-2022-summer-graduation-applications/
+Term Match: "deadline" -> <h1> Deadline for 2022 Summer Graduation Applications.
+Term Match: "deadline" -> <h1> Deadline for 2022 Summer Graduation Applications.
+Visiting https://www.alamancecc.edu/events/2022-summer-registration-deadline-is-230-pm-2022-summer-payment-deadline-is-300-pm/
+Term Match: "deadline" -> <h1> 2022 Summer Registration deadline is 2:30 pm & 2022 Summer Payment Deadline is 3:00 pm
+Term Match: "deadline" -> <h1> 2022 Summer Registration deadline is 2:30 pm & 2022 Summer Payment Deadline is 3:00 pm
+URLs with content matching Deadline term
+https://www.alamancecc.edu/financial-aid-site/applying-for-financial-aid/
+https://www.alamancecc.edu/events/2022-summer-fall-schedules-available-on-self-service-deadline-for-2022-spring-graduation-applications/
+https://www.alamancecc.edu/events/deadline-for-2022-summer-graduation-applications/
+https://www.alamancecc.edu/events/2022-summer-registration-deadline-is-230-pm-2022-summer-payment-deadline-is-300-pm/
+https://www.alamancecc.edu/financial-aid-site/
+URLs with content matching Deadline term
+Visiting https://alaskacc.edu
+Visiting https://alaskacc.edu/apply/
+URLs with content matching Deadline term
+Visiting https://alaskapacific.edu
+Visiting https://www.alaskapacific.edu/admissions/
+Visiting https://www.alaskapacific.edu/apply/
+Visiting https://www.alaskapacific.edu/admissions/meet-admissions/
+Visiting https://www.alaskapacific.edu/admissions/admissions-requirements/
+Term Match: "deadline" -> <h4> 3 – Check Application Deadlines
+Term Match: "deadline" -> <h4> 3 – Check Application Deadlines*
+Term Match: "deadline" -> <h4> 3 – Check Application Deadlines*
+Term Match: "deadline" -> <h4> 3 – Check Application Deadlines
+Term Match: "deadline" -> <h4> 2 – Check Application Deadlines*
+Visiting https://www.alaskapacific.edu/admissions/contact-admissions/
+URLs with content matching Deadline term
+https://www.alaskapacific.edu/admissions/admissions-requirements/
+Visiting https://acphs.edu
+Visiting https://www.acphs.edu/apply
+Visiting https://www.acphs.edu/admissions
+Visiting https://www.acphs.edu/application-dates-and-deadlines
+Visiting https://www.acphs.edu/admissions/financial-aid/dates-deadlines
+Term Match: "deadline" -> <h1> Dates & Deadlines
+Term Match: "deadline" -> <p> February 1, 2022
+2022-2023 FAFSA filing deadline for NEW students.
+Term Match: "deadline" -> <p> March 1, 2022
+2022-2023 FAFSA/Renewal FAFSA filing deadline for RETURNING students.
+Term Match: "deadline" -> <p> May 1, 2022
+Deadline for all 2022-2023 Financial Aid paperwork.
+Term Match: "deadline" -> <h1> Application Dates and Deadlines
+Term Match: "deadline" -> <p> Find all application-related dates and deadlines here
+Term Match: "deadline" -> <h4> freshmen students application dates and deadlines
+Term Match: "deadline" -> <h4> Transfer application Dates and Deadlines
+Term Match: "deadline" -> <h4> doctor of pharmacy application Dates and Deadlines
+Term Match: "deadline" -> <p> Academics
+Admission Dates & Deadlines
+Apply Now
+Contact Admissions
+Request Info
+Transfer Credits Database
+Visit Us
+URLs with content matching Deadline term
+https://www.acphs.edu/admissions/financial-aid/dates-deadlines
+https://www.acphs.edu/application-dates-and-deadlines
+https://www.acphs.edu/admissions
+URLs with content matching Deadline term
+Visiting https://albanytech.edu
+Visiting https://www.albanytech.edu/admissions/how-to-apply
+Visiting https://www.albanytech.edu/admissions
+Visiting https://www.albanytech.edu/apply-now
+Visiting https://www.albanytech.edu/admissions/admission-requirements
+Visiting https://www.albanytech.edu/admissions/admission-forms
+Visiting https://www.albanytech.edu/uploads/files/78/d6/78d6e4c75abe92c2226aa066ae6e269c.pdf
+Visiting https://www.albanytech.edu/financial-aid/how-to-apply-for-financial-aid
+Visiting https://www.albanytech.edu/financial-aid/reapplying-for-aid
+Term Match: "deadline" -> <p> All students must reapply for financial aid each year. The priority funding deadline to renew your financial aid is July 1st for the fall semester. All financial aid awards are reviewed annually based on:
+URLs with content matching Deadline term
+https://www.albanytech.edu/financial-aid/reapplying-for-aid
+Visiting https://albertus.edu
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/
+Visiting https://www.albertus.edu/admission-aid/
+Visiting https://www.albertus.edu/undergraduate-degrees/?utm_medium=mainlink&utm_source=Website&utm_campaign=ug-overview&utm_content=Main_Page_Undergraduate_Admissions
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/transfer-students
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/important-deadlines
+Visiting https://www.albertus.edu/undergraduate-degrees/
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/international-students.php
+Visiting https://www.albertus.edu/adult-accelerated-degrees/index.php
+Visiting https://www.albertus.edu/graduate-degrees/
+Visiting https://www.albertus.edu/graduate-degrees/admission-requirements.php
+Visiting https://www.albertus.edu/admission-aid/index.php
+Visiting https://www.albertus.edu/adult-accelerated-degrees/
+Visiting https://www.albertus.edu/adult-accelerated-degrees/admission-requirements.php
+Visiting https://www.albertus.edu/adult-accelerated-degrees/admissions-staff/meet-admissions-staff.php
+Visiting https://www.albertus.edu/adult-accelerated-degrees/admissions-staff/talk-with-a-counselor.php
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/index.php
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/find-counselor.php
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/find-counselor
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/dates-deadlines.php
+Visiting https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/international-students
+Term Match: "deadline" -> <h1> Important Deadlines For International Students
+Term Match: "deadline" -> <p> Albertus Magnus College has a rolling admissions program.  In order to best serve our international students we recommend the following deadlines to best assist in attaining proper immigration documentation and the best welcome you to our program.
+Term Match: "deadline" -> <h2> Undergraduate Admission Deadlines:
+Term Match: "deadline" -> <h2> Scholarships deadline: March 15
+Visiting https://www.albertus.edu/undergraduate-degrees?utm_source=AlbertusHomePage&utm_medium=TraditionalUndergraduateAdmissions&utm_term=UgAdmissions&utm_content=UGAdmissionsLink&utm_campaign=HomePageSideLink
+Visiting https://www.albertus.edu/adult-accelerated-degrees?utm_source=AlbertusHomePage&utm_medium=EveningUndergraduateAdmissions&utm_term=EugAdmissions&utm_content=EUGAdmissionsLink&utm_campaign=HomePageSideLink
+Visiting https://www.albertus.edu/graduate-degrees?utm_source=AlbertusHomePage&utm_medium=GraduateAdmissions&utm_term=GradAdmissions&utm_content=GRADAdmissionsLink&utm_campaign=HomePageSideLink
+URLs with content matching Deadline term
+https://www.albertus.edu/undergraduate-degrees/apply-for-admission/admission-requirements/important-deadlines
+Visiting https://albion.edu
+Visiting https://www.albion.edu/admission/apply/
+Visiting https://www.albion.edu/admission/
+Visiting https://www.albion.edu/admission/counselors/
+Visiting https://www.albion.edu/admission/cost-financial-aid/
+Visiting https://www.albion.edu/admission/first-year/
+Term Match: "deadline" -> <p> The enrollment deposit deadline for both Early Action and Rolling Admission is May 1. Deposits are $225 until March 15, increasing to $350 after. The enrollment deposit is refundable until May 1.
+Term Match: "deadline" -> <h2> Application Deadlines
+Visiting https://www.albion.edu/admission/transfer/
+Visiting https://www.albion.edu/admission/transfer/transfer-admission-faqs/
+Visiting https://www.albion.edu/admission/international/
+Visiting https://www.albion.edu/admission/international/international-admission-faq/
+Term Match: "deadline" -> <p> The enrollment deposit deadline for both Early Action and Rolling Admission is May 1. Deposits are $285 until April 16, increasing to $350 after. The enrollment deposit is refundable until May 1.
+Term Match: "deadline" -> <h2> Application Deadlines for International Students
+URLs with content matching Deadline term
+https://www.albion.edu/admission/first-year/
+https://www.albion.edu/admission/international/
+Visiting https://albizu.edu
+Visiting https://www.albizu.edu/admissions/
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+Visiting https://albright.edu
+Visiting https://www.albright.edu/admission-aid/apply-now/
+Visiting https://www.albright.edu/admission-aid/
+Visiting https://www.albright.edu/admission-aid/admission-faqs/
+Visiting https://www.albright.edu/admission-aid/guide-college-admission-aid/
+Visiting https://www.albright.edu/admission-aid/first-year-students/
+Visiting https://www.albright.edu/admission-aid/virtual-visit/
+Visiting https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-lingo/
+Visiting https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-faqs/
+Visiting https://www.albright.edu/admission-aid/first-year-students/albright-college-admission-policy/
+Term Match: "deadline" -> <p> Is there a deadline to apply to Albright? 
+Term Match: "deadline" -> <p> Admission at Albright College is rolling, which means you can apply at any time after the completion of your junior year. Summer is a great time to become familiar, or even start an application for admission, and the Common App traditionally opens on August 1. We encourage students to apply during the fall of their senior year of high school. Albright College has extended our enrollment deadline for the class enrolling in the Fall of 2020 to JUNE 1 as a result of the effects of Covid-19 (Coronavirus).
+Term Match: "deadline" -> <h2> Dates and Deadlines
+Term Match: "deadline" -> <p> Deadlines are important, and the schedules below allow you to get the information you need in a timely manner. Be sure to contact the Office of Admission if you have any questions.
+Visiting https://www.albright.edu/admission-aid/first-generation-students/admission-lingo/
+Visiting https://www.albright.edu/admission-aid/international-students/
+Term Match: "deadline" -> <p> Application Deadlines
+Visiting https://albright.edu/admission-aid/apply-now/
+URLs with content matching Deadline term
+https://www.albright.edu/admission-aid/international-students/
+https://www.albright.edu/admission-aid/guide-college-admission-aid/admission-faqs/
+https://www.albright.edu/admission-aid/first-year-students/
+Visiting https://alcorn.edu
+Error: Get "https://alcorn.edu": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+Visiting https://alextech.edu
+Error: Get "https://alextech.edu": dial tcp 134.29.163.174:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
+URLs with content matching Deadline term
+Visiting https://alfred.edu
+Visiting https://www.alfred.edu/admissions/index.cfm
+Visiting https://www.alfred.edu/admissions/apply.cfm
+Visiting https://www.alfred.edu/admissions/undergraduate/transfer/index.cfm
+Visiting https://www.alfred.edu/admissions/undergraduate/readmission.cfm
+Visiting https://www.alfred.edu/admissions/undergraduate/transfer/checklist.cfm
+Term Match: "deadline" -> <h2> Application Deadlines
+Term Match: "deadline" -> <p> Welcome to Alfred University! As a transfer student, we know you probably have questions about transfer credits and course equivalencies, deadlines to apply, meeting program prerequisites and program specifics. Take a look around to find the answers, or reach out to us directly to start the application process.
+Term Match: "deadline" -> <h2> Deadlines & Application Process
+Visiting https://www.alfred.edu/admissions/graduate/apply.cfm
+Term Match: "deadline" -> <p> A $200 (US) deposit is required from all accepted students. Deposit deadlines vary by program and may be obtained by contacting the Office of Graduate Admissions by phone, 607-871-2115/800-541-9229 or email.
+Visiting https://www.alfred.edu/admissions/covid-19-faq.cfm
+Visiting https://www.alfred.edu/admissions/counselor-map/index.cfm
+Visiting https://www.alfred.edu/admissions/counselor-map/counselor-map-us.cfm
+Term Match: "deadline" -> <p> Application ProcessView Application Deadlines, Application Requirements, How to Apply and Steps to take after Acceptance.
+Term Match: "deadline" -> <p> Deadlines, Transfer Credits & Application
+Term Match: "deadline" -> <p> Application ProcessView Application Deadlines, Application Requirements, How to Apply, and Steps to take after Acceptance.
+Visiting https://www.alfred.edu/admissions/undergraduate/index.cfm
+Visiting https://www.alfred.edu/admissions/inquiry.cfm
+Visiting https://www.alfred.edu/admissions/graduate/index.cfm
+Term Match: "deadline" -> <p> 
+                                                                    We know you probably have questions about transferring your credits, deadlines to apply, meeting program prerequisites and managing timelines. You can find that information here. 
+                                                            
+URLs with content matching Deadline term
+https://www.alfred.edu/admissions/graduate/apply.cfm
+https://www.alfred.edu/admissions/apply.cfm
+https://www.alfred.edu/admissions/index.cfm
+https://www.alfred.edu/admissions/undergraduate/readmission.cfm
+https://www.alfred.edu/admissions/undergraduate/transfer/index.cfm
+Visiting https://alc.edu
+Visiting https://www.alc.edu/admissions/quick-facts/
+Visiting https://www.alc.edu/admissions/
+Visiting https://www.alc.edu/admissions/apply/
+Visiting https://www.alc.edu/admissions/college-fairs-admissions-events/
+URLs with content matching Deadline term
+URLs with content matching Deadline term
+Visiting https://allegany.edu
+Visiting https://www.allegany.edu/admissions/index.html
+Visiting https://allegany.edu/apply-now
+Error: Get "https://services.allegany.edu/admissions/application/": Not following redirect to services.allegany.edu because its not in AllowedDomains
+Visiting https://www.allegany.edu/admissions/documents/ACM-College-Application.pdf
+Visiting https://www.allegany.edu/financial-aid/spring2022-covid-19-scholarship.html
+URLs with content matching Deadline term
+Visiting https://allegheny.edu
+URLs with content matching Deadline term
+Visiting https://awc.edu
+Visiting https://awc.edu/admissions/
+Visiting https://awc.edu/apply/
+Term Match: "deadline" -> <h2> Deadlines
+URLs with content matching Deadline term
+https://awc.edu/apply/
+Visiting https://allencollege.edu
